@@ -1,0 +1,13 @@
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\bin\Debug\netcoreapp3.1\TratErros.exe
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\bin\Debug\netcoreapp3.1\TratErros.deps.json
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\bin\Debug\netcoreapp3.1\TratErros.runtimeconfig.json
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\bin\Debug\netcoreapp3.1\TratErros.runtimeconfig.dev.json
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\bin\Debug\netcoreapp3.1\TratErros.dll
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\bin\Debug\netcoreapp3.1\TratErros.pdb
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\obj\Debug\netcoreapp3.1\TratErros.csprojAssemblyReference.cache
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\obj\Debug\netcoreapp3.1\TratErros.AssemblyInfoInputs.cache
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\obj\Debug\netcoreapp3.1\TratErros.AssemblyInfo.cs
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\obj\Debug\netcoreapp3.1\TratErros.csproj.CoreCompileInputs.cache
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\obj\Debug\netcoreapp3.1\TratErros.dll
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\obj\Debug\netcoreapp3.1\TratErros.pdb
+C:\Users\VM Raphael\Downloads\codigosCSharp\TratErros\obj\Debug\netcoreapp3.1\TratErros.genruntimeconfig.cache

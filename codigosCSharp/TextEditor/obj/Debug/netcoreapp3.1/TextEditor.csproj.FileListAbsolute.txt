@@ -1,0 +1,13 @@
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csprojAssemblyReference.cache
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Users\VM Raphael\Downloads\codigosCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.exe
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csprojAssemblyReference.cache
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfo.cs
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\VM Raphael\Downloads\codigosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.genruntimeconfig.cache
