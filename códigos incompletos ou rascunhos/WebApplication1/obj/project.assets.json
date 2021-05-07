@@ -1851,11 +1851,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\avalerio\\Desktop\\codCSharp\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\avalerio\\Desktop\\codCSharp\\TreinamentoCSharp\\códigos incompletos ou rascunhos\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\avalerio\\Desktop\\codCSharp\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\avalerio\\Desktop\\codCSharp\\TreinamentoCSharp\\códigos incompletos ou rascunhos\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\avalerio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\avalerio\\Desktop\\codCSharp\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\avalerio\\Desktop\\codCSharp\\TreinamentoCSharp\\códigos incompletos ou rascunhos\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\avalerio\\AppData\\Roaming\\NuGet\\NuGet.Config",

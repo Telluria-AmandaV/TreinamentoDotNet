@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a/CX5pIPUO0cq5t4v5mCiZO1uzG3k8cWl6fKEZIwG+GzsI7+3F7DjZZidkWPE74vynzZQY+JK15/VgUxUIwTNQ==",
+  "dgSpecHash": "SZBuXoUhRs7AJ67FTfQXu6Q4jikBpEHCKQvInfmqWGt+w34ASUBtzP4z6hVswdtQZ72e/+Fz1sOfeWRjGHLHgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\avalerio\\Desktop\\codCSharp\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\avalerio\\Desktop\\codCSharp\\TreinamentoCSharp\\códigos incompletos ou rascunhos\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\avalerio\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\avalerio\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
