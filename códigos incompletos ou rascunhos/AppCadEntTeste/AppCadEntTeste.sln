@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCadEntTeste", "AppCadEntTeste.csproj", "{4799F1D9-2D07-4059-A1F0-46BC1D4EDD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4799F1D9-2D07-4059-A1F0-46BC1D4EDD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4799F1D9-2D07-4059-A1F0-46BC1D4EDD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4799F1D9-2D07-4059-A1F0-46BC1D4EDD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4799F1D9-2D07-4059-A1F0-46BC1D4EDD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0325EAA9-7EF5-47E5-903D-B6EA6E8C0150}
+	EndGlobalSection
+EndGlobal
