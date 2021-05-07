@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\avalerio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\avalerio\\.nuget\\packages"
+    ]
+  }
+}
